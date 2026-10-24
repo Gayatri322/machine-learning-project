@@ -30,4 +30,4 @@ Run all commands from the repository folder. Results can differ slightly
 between library versions, but the model ranking stays the same.
 
 ## Team
-Madhesh S, Harsh Prabha Bhaina, Gayatri Supraja
+Madhesh S, Harsh Prabha Bhaina, Gayatri Supraja K
