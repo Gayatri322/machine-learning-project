@@ -21,4 +21,4 @@ python generate_data.py   (optional, recreates the data)
 python train_models.py
 
 ## Team
-Madhesh S, Harsh Prabha Bhaina, Gayatri Supraja
+Madhesh S, Harsh Prabha Bhaina, Gayatri Supraja K
